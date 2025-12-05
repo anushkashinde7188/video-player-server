@@ -21,5 +21,4 @@ out/
 Thumbs.db
 .vscode/
 
-# Uploads and runtime data
-uploads/
+
